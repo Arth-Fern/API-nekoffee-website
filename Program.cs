@@ -19,7 +19,6 @@ builder.Services.AddCors(options =>
 });
 
 builder.Services.AddControllers();
-builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
@@ -27,6 +26,7 @@ var app = builder.Build();
 
 app.UseCors("AllowFrontend");               
 app.MapClientesEndPoints();                 
-app.MapControllers();                       
+app.MapControllers();
 
-app.Run();                                  
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5052";
+app.Run($"http://0.0.0.0:{port}");
