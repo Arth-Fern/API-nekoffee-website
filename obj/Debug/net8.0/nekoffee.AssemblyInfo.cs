@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nekoffee")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3b9839abaf484d90da639c135e67af80ac844b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70c39ae563882ea2f6f6c33d1767e611a704eae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("nekoffee")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nekoffee")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

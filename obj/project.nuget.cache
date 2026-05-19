@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xHRSWNd37sM=",
+  "dgSpecHash": "5Pf1ekaeWOk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\teste pra nn dar merda\\API-nekoffee-website\\api-nekoffee-website\\nekoffee.csproj",
+  "projectFilePath": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\teste pra nn dar merda\\API-nekoffee-website\\API-nekoffee-website\\nekoffee.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artur\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\artur\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

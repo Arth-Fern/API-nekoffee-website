@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\artur\\OneDrive\\\u00C1rea de Trabalho\\teste pra nn dar merda\\API-nekoffee-website\\API-nekoffee-website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B1C8805-8902-5F46-163F-DFAF3BF6E24A}|nekoffee.csproj|c:\\users\\artur\\onedrive\\\u00E1rea de trabalho\\teste pra nn dar merda\\api-nekoffee-website\\api-nekoffee-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1C8805-8902-5F46-163F-DFAF3BF6E24A}|nekoffee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B1C8805-8902-5F46-163F-DFAF3BF6E24A}|nekoffee.csproj|c:\\users\\artur\\onedrive\\\u00E1rea de trabalho\\teste pra nn dar merda\\api-nekoffee-website\\api-nekoffee-website\\nekoffee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8B1C8805-8902-5F46-163F-DFAF3BF6E24A}|nekoffee.csproj|solutionrelative:nekoffee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\\u00C1rea de Trabalho\\teste pra nn dar merda\\API-nekoffee-website\\API-nekoffee-website\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\\u00C1rea de Trabalho\\teste pra nn dar merda\\API-nekoffee-website\\API-nekoffee-website\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T23:51:53.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "nekoffee.csproj",
               "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\\u00C1rea de Trabalho\\teste pra nn dar merda\\API-nekoffee-website\\API-nekoffee-website\\nekoffee.csproj",
               "RelativeDocumentMoniker": "nekoffee.csproj",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "railway.json",
               "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\\u00C1rea de Trabalho\\teste pra nn dar merda\\API-nekoffee-website\\API-nekoffee-website\\railway.json",
               "RelativeDocumentMoniker": "railway.json",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\\u00C1rea de Trabalho\\teste pra nn dar merda\\API-nekoffee-website\\API-nekoffee-website\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Gafeteria.sql",
               "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\\u00C1rea de Trabalho\\teste pra nn dar merda\\API-nekoffee-website\\API-nekoffee-website\\Gafeteria.sql",
               "RelativeDocumentMoniker": "Gafeteria.sql",
